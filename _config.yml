@@ -1,6 +1,6 @@
 # Site settings
 title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+description: "I want to be a Forensics Pshycologist because I love to help people and i like criminal justice. So being a Forensics Psycologist lets help criminals out by making sure they do not go down the same roll that led them into jail after they get out. "
 
 # Build settings
 markdown: kramdown
@@ -11,10 +11,10 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    " Jada D. Wright"
-resume_title:                   "Nuclear Safety Inspector"
+resume_title:                   "Forensics Pshycologist"
 resume_contact_email:
-  "homerjsimpson@youremailaddress.com"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
+  "Wrightjada41@gmail.com"
+resume_header_contact_info: "10640 Redbud Ln, Jonesboro | 915-7017 | Wrightjada41@gmail.com"
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
 
 # use "yes" to display the email contact button,
